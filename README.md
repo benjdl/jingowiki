@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![NPM](https://nodei.co/npm/jingo.png?compact=true)](https://npmjs.org/package/jingo)
 
 [ ![Codeship Status for claudioc/jingo](https://www.codeship.io/projects/4c413870-353e-0132-115c-220292a78f73/status)](https://www.codeship.io/projects/40997)
@@ -403,3 +404,6 @@ Configuration options reference
 #### customizations.script (string: "_script.md")
 
   Defines the name for the customized _script_ JavaScript component. Defaults to `_script.js`.
+=======
+# jingowiki
+>>>>>>> 33d906472dfa590cf5a13bb2a49fa2b1e86444b7
